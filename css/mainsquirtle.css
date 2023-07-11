@@ -1,0 +1,40 @@
+h1 {
+    font-size: 3vw;
+    /*color:darkblue;*/
+}
+
+h2 {
+    color: chocolate;
+    /*color:chocolate;*/
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+h2{
+    color: chocolate;
+    border: solid;
+    border-width: 2px;
+    padding-left: 5px;
+}
+
+table, th, td {
+    border-style: dotted;
+    border-color: darkSlateBlue;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+body {
+    font-family: "Verdana", Geneva, sans-serif;
+    background-image: url("../img/ocean_bg.jpg");
+}
+
+.stats{
+    color: purple;
+}
